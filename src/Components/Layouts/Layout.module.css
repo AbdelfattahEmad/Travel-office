@@ -1,0 +1,16 @@
+
+.Layout_Container{
+background-color: #ffffff; 
+
+
+}
+.Layout_Container .Navbar,
+.Layout_Container .Cover,
+.Layout_Container .Communit, 
+.Layout_Container .Memories ,
+.Layout_Container .Discover,
+.Layout_Container .Plan
+{
+
+    margin-bottom: 20px;
+}

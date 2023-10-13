@@ -1,0 +1,41 @@
+.Nav_Container{ 
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 25px 50px;
+}
+.Nav_Container .Logo {
+    display: flex;
+    align-items: center;
+
+}
+.Nav_Container .Logo h4 {
+    margin-left: 5px;}
+
+
+.Nav_Container .nav_items{
+    display: flex;
+    align-items: baseline;
+
+}
+
+.Nav_Container .nav_items ul{
+    list-style: none;
+    display: flex;
+}
+.Nav_Container .nav_items ul li{
+    margin: 15px;
+    font-family: emoji;
+    font-size: 18px;
+
+}
+.Nav_Container .nav_items Button{
+    margin-left: 20px;
+    background-color: #437f75;
+    padding: 8px 15px;
+    font-family: emoji;
+
+}
+
+
+

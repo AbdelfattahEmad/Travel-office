@@ -1,0 +1,53 @@
+.Discover_Container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.Discover_Container .Discover_items{
+    text-align: start;
+}
+
+.Discover_Container .Discover_items h5{
+    color: #606060;
+    font-style: oblique;
+    font-family: inherit;
+    letter-spacing: 6px;
+    margin: 20px 0px;
+
+}
+
+.Discover_Container .Discover_items  h3 {
+    color:#232323;
+    font-size: 40px;
+    font-family: emoji;
+    font-style: normal;
+    font-weight: 900;
+    margin: 20px 0px;
+
+}
+
+
+.Discover_Container .Discover_items p {
+    font-family: cursive;
+    font-style: oblique;
+    color: #858585;
+
+    
+}
+.Discover_Container .Discover_items .members_images  {
+    position: relative;
+
+}
+.Discover_Container .Discover_items .members_images img  {
+    width: 80px;
+    border-radius: 50%;
+    height: 70px;
+    border: 1px solid #eee;
+    box-shadow: 6px 3px 6px #eee;
+
+}
+
+
+.Discover_Container .Discover_images{}

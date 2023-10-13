@@ -1,0 +1,81 @@
+.Cover_Container{
+    background-color:#f8f8f8 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 18px 50px;
+
+}
+
+.Cover_Container .words{}
+
+
+.Cover_Container .words .p_one {
+
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    font-size: 15px;
+    border-radius: 65px;
+    padding: 3px 11px;
+
+}
+
+.Cover_Container .words .p_one {
+}
+
+
+.Cover_Container .words .p_one  img{
+    border-radius: 50%;
+    width: 30px;
+}
+.Cover_Container .words .p_one p {
+    margin: 7px 6px;
+    font-family: fangsong;
+
+}
+
+.Cover_Container .words .p_two {
+    padding: 20px;
+
+}
+
+.Cover_Container .words .p_two h3 {
+    font-weight: bold;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.Cover_Container .words .p_two h3  span{
+    color: #447e75;
+}
+
+.Cover_Container  .words .app {}
+
+.Cover_Container  .words .app p {
+    font-size: 15px;
+    font-style: oblique;
+}
+
+
+.Cover_Container  .words .app .image {}
+
+
+.Cover_Container  .words .app .image img {
+    width: 40px;
+    border-radius: 10px;
+    width: 120px;
+    margin: 6px 1px;
+
+}
+
+
+.Cover_Container .Image{}
+
+.Cover_Container .Image img {
+    width: 450px;
+    border-radius: 60%;
+
+}
+
+

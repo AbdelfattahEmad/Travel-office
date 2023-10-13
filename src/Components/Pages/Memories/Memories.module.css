@@ -1,0 +1,91 @@
+.Memories_Container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: start;
+
+}
+
+.Memories_Container .Image{
+    position: relative;
+}
+.Memories_Container .Image img {
+    width: 450px;
+}
+
+.Memories_Container .Image p{
+    border-radius: 9px;
+    font-size: 12px;
+    font-style: oblique;
+    font-family: math;
+    background-color: #ffffff;
+    padding: 12px 12px;
+    border: 1px solid #eee;
+    box-shadow: 3px 3px 3px #EEE;
+    position: absolute;
+    bottom: 100px;
+
+}
+.Memories_Container .Get_Conected {
+    
+}
+
+.Memories_Container .Get_Conected > p {
+    font-size: 25px;
+    font-family: emoji;
+    font-style: oblique;
+    letter-spacing: 10px;
+}
+
+.Memories_Container .Get_Conected h2 {
+    font-family: math;
+    font-style: italic;
+    font-size: 35px;
+
+
+}
+.Memories_Container .Get_Conected .Conected_items {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 35px 5px;
+} 
+
+.Memories_Container .Get_Conected .Conected_items .image {
+    background-color: #ffffff;
+    border: 1px solid #ffffff ;
+    border-radius: 50px;
+    box-shadow: 4px 3px 3px #eee;
+    margin: 10px;
+
+
+}
+
+.Memories_Container .Get_Conected .Conected_items .image img {
+    width: 25px;
+    margin: 8px;
+}
+
+
+.Memories_Container .Get_Conected .Conected_items .item h3 {
+    padding: 5px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: math;
+    text-align: start;
+
+}
+
+
+
+.Memories_Container .Get_Conected .Conected_items .item p {
+    font-size: 15px;
+    font-style: italic;
+    font-family: math;
+    text-align: start;
+    color: #888888;
+
+
+
+
+}

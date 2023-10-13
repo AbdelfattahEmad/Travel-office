@@ -1,0 +1,74 @@
+.Footer_Container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.Footer_Container .Footer_items{
+    text-align: start;
+    padding: 20px;
+}
+
+.Footer_Container .Footer_items h2{
+    font-size: 22px;
+    margin-left: 22px;
+
+    font-family: emoji;
+
+}
+
+.Footer_Container .Footer_items ul {
+    list-style: none;
+}
+
+.Footer_Container .Footer_items ul li {
+    font-size: 18px;
+    color: #6f6f6f;
+    margin: 8px 0px;
+
+
+}
+
+.Head_Footer .Contact_us {
+    margin-top: 15px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.Head_Footer .Contact_us .Logo {
+    display: flex;
+}
+.Head_Footer .Contact_us .Logo  h4{ 
+    margin-left: 5px;
+}
+
+.Head_Footer .Contact_us .Choises {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Head_Footer .Contact_us .Choises p {
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.Head_Footer .Contact_us .Icons {
+    display: flex;
+    align-items: center;
+
+}
+.Head_Footer .Contact_us .Icons img {
+    width: 50px;
+    margin-right: 20px;
+    
+}
+
+
+
+
+

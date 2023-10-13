@@ -1,0 +1,28 @@
+.Community_Container{
+    margin: 55px 0px;
+}
+.Community_Container p{
+    font-size: 25px;
+    font-family: auto;
+    font-style: italic;
+    letter-spacing: 6px;
+    color: #6b6b6b;
+
+}
+
+
+.Community_Container h3 {
+    font-family: math;
+    font-weight: bold;
+
+}
+
+
+.Community_Container img {
+    padding: 20px;
+    width: 1200px;
+    border-radius: 50px;
+}
+
+    
+ 
